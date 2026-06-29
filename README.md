@@ -10,7 +10,7 @@ This project extends prior discrete-jump reinforcement learning research (such a
 
 ---
 
-https://github.com/Kairat11/triskelion-simulation-demo/blob/main/phaseD_demo_static_fwd3m.mp4
+<video src="phaseD_demo_static_fwd3m.mp4" width="100%" controls autoplay loop muted></video>
 
 
 ## 📺 Simulation Demo: Phase D (Goal-Directed Navigation)
