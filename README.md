@@ -17,6 +17,8 @@ The following demonstration showcases the final Phase D policy. The robot succes
 * **Environment:** Moon gravity (−0.981 m/s²)[cite: 2].
 * **Control:** The 120°-symmetric body is completely omnidirectional; the robot does not need to face the target to navigate effectively[cite: 2].
 
+![](results/phaseD_demo_static_fwd3m.mp4))
+
 <!-- Ensure your video file is named correctly and uploaded to the root of this new public repo -->
 https://github.com/Kairat11/triskelion-simulation-demo/blob/main/phaseD_demo_static_fwd3m.mp4
 
