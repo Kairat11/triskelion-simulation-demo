@@ -18,7 +18,7 @@ The following demonstration showcases the final Phase D policy. The robot succes
 * **Control:** The 120°-symmetric body is completely omnidirectional; the robot does not need to face the target to navigate effectively[cite: 2].
 
 <!-- Ensure your video file is named correctly and uploaded to the root of this new public repo -->
-/phaseD_demo_static_fwd3m.mp4
+https://github.com/Kairat11/triskelion-simulation-demo/blob/main/phaseD_demo_static_fwd3m.mp4
 
 ---
 
