@@ -1,7 +1,5 @@
 # Project Triskelion: DeepRL for Autonomous Low-Gravity Robotics
 
-*(Note: The core source code for this project is maintained in a private repository for intellectual property protection. This repository serves as a public demonstration hub for academic and professional evaluation. Technical inquiries or access requests can be directed to quantum_quality@bk.ru).*
-
 ## Overview
 
 Project Triskelion features a 3-legged hopping robot trained via Deep Reinforcement Learning to navigate low-gravity terrain[cite: 3]. Built completely end-to-end—from custom CAD to URDF pipelines and PPO controllers—the system is designed for fault-tolerant planetary rover applications. The architecture is designed to handle varying gravitational environments, scaling from Mars (0.3g) down to the Moon (0.1g) and Ceres (0.029g). 
