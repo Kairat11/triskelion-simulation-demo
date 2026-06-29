@@ -10,14 +10,15 @@ This project extends prior discrete-jump reinforcement learning research (such a
 
 ---
 
+https://github.com/Kairat11/triskelion-simulation-demo/blob/main/phaseD_demo_static_fwd3m.mp4
+
+
 ## 📺 Simulation Demo: Phase D (Goal-Directed Navigation)
 
 The following demonstration showcases the final Phase D policy. The robot successfully hops from a random spawn point to an arbitrary target located 2 to 5 meters away[cite: 2]. 
 
 * **Environment:** Moon gravity (−0.981 m/s²)[cite: 2].
 * **Control:** The 120°-symmetric body is completely omnidirectional; the robot does not need to face the target to navigate effectively[cite: 2].
-
-![](phaseD_demo_static_fwd3m.mp4))
 
 <!-- Ensure your video file is named correctly and uploaded to the root of this new public repo -->
 https://github.com/Kairat11/triskelion-simulation-demo/blob/main/phaseD_demo_static_fwd3m.mp4
