@@ -14,7 +14,11 @@ This project extends prior discrete-jump reinforcement learning research (such a
 
 ## 📺 Simulation Demo: Phase D (Goal-Directed Navigation)
 
-![](./phaseD_demo_static_fwd3m.mp4)
+
+
+https://github.com/user-attachments/assets/1be58508-2590-45a6-8162-24fcf839edc4
+
+
 
 The following demonstration showcases the final Phase D policy. The robot successfully hops from a random spawn point to an arbitrary target located 2 to 5 meters away[cite: 2]. 
 
